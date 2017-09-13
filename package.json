@@ -14,10 +14,11 @@
     "express": "4.15.4",
     "feed": "1.1.0",
     "jsdom": "11.2.0",
-    "md5": "2.2.1"
+    "md5": "2.2.1",
+    "memory-cache": "^0.2.0"
   },
   "repository": {
     "type": "git",
-	"url": "https://github.com/piomar123/htmltofeed.git"
+    "url": "https://github.com/piomar123/htmltofeed.git"
   }
 }
