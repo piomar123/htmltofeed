@@ -1,0 +1,11 @@
+{
+  "browser": false,
+  "esversion": 6,
+  "globals": {},
+  "globalstrict": false,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "node": true,
+  "camelcase": true
+}

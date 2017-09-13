@@ -1,0 +1,19 @@
+{
+  "name": "htmltofeed",
+  "version": "1.0.0",
+  "description": "Atom feed generator from HTML website",
+  "main": "app.js",
+  "keywords": [
+    "feed",
+    "html",
+    "atom"
+  ],
+  "author": "piomar123",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.4",
+    "feed": "1.1.0",
+    "jsdom": "11.2.0",
+    "md5": "2.2.1"
+  }
+}
