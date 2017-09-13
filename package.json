@@ -15,5 +15,9 @@
     "feed": "1.1.0",
     "jsdom": "11.2.0",
     "md5": "2.2.1"
+  },
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/piomar123/htmltofeed.git"
   }
 }
